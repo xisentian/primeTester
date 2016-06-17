@@ -1,0 +1,9 @@
+[package]
+name = "primeTester"
+version = "0.1.0"
+authors = ["Xisen Tian <xisentian@gmail.com>"]
+
+[dependencies]
+rand = "*"
+[dependencies.rmp]
+path = "../rmp"
