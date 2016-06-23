@@ -17,7 +17,7 @@ version = Version [0,1,0,0] []
 bindir, libdir, datadir, libexecdir, sysconfdir :: FilePath
 
 bindir     = "/Users/jarvis/code/PKIApp/primeTester/haskellScript/primeScripts/.stack-work/install/x86_64-osx/lts-6.3/7.10.3/bin"
-libdir     = "/Users/jarvis/code/PKIApp/primeTester/haskellScript/primeScripts/.stack-work/install/x86_64-osx/lts-6.3/7.10.3/lib/x86_64-osx-ghc-7.10.3/primeScripts-0.1.0.0-LhO5GXiL3H7BRq5fEpeHxU"
+libdir     = "/Users/jarvis/code/PKIApp/primeTester/haskellScript/primeScripts/.stack-work/install/x86_64-osx/lts-6.3/7.10.3/lib/x86_64-osx-ghc-7.10.3/primeScripts-0.1.0.0-CHzY9HPVveOBXbsakpSepf"
 datadir    = "/Users/jarvis/code/PKIApp/primeTester/haskellScript/primeScripts/.stack-work/install/x86_64-osx/lts-6.3/7.10.3/share/x86_64-osx-ghc-7.10.3/primeScripts-0.1.0.0"
 libexecdir = "/Users/jarvis/code/PKIApp/primeTester/haskellScript/primeScripts/.stack-work/install/x86_64-osx/lts-6.3/7.10.3/libexec"
 sysconfdir = "/Users/jarvis/code/PKIApp/primeTester/haskellScript/primeScripts/.stack-work/install/x86_64-osx/lts-6.3/7.10.3/etc"

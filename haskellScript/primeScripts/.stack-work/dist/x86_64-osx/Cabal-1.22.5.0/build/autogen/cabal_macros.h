@@ -7,6 +7,13 @@
   (major1) == 4 && (major2) <  8 || \
   (major1) == 4 && (major2) == 8 && (minor) <= 2)
 
+/* package criterion-1.1.1.0 */
+#define VERSION_criterion "1.1.1.0"
+#define MIN_VERSION_criterion(major1,major2,minor) (\
+  (major1) <  1 || \
+  (major1) == 1 && (major2) <  1 || \
+  (major1) == 1 && (major2) == 1 && (minor) <= 1)
+
 /* package crypto-numbers-0.2.7 */
 #define VERSION_crypto_numbers "0.2.7"
 #define MIN_VERSION_crypto_numbers(major1,major2,minor) (\
@@ -77,5 +84,5 @@
   (major1) == 0 && (major2) <  28 || \
   (major1) == 0 && (major2) == 28 && (minor) <= 0)
 
-#define CURRENT_PACKAGE_KEY "prime_LhO5GXiL3H7BRq5fEpeHxU"
+#define CURRENT_PACKAGE_KEY "prime_CHzY9HPVveOBXbsakpSepf"
 
